@@ -1,0 +1,8 @@
+.header {
+    background-image: url(../assets/img/fondo.png);
+    background-size: cover;
+    background-position: center;
+    height: 10em;
+    padding: 1em;
+    padding-right: 2em;
+}
